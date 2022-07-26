@@ -6,3 +6,16 @@ linea 7 - main.js:
 linea 10 - main.js: 
     Aggiunta: All nel querySelector.
     Rimozione: Punto dalla call dell Input.
+
+
+Snack 2: 
+
+linea 11 - main.js: 
+    Modificato: Segno maggiore in minore condizione while.
+
+    
+
+Snack 3:
+
+linea - main.js:
+    

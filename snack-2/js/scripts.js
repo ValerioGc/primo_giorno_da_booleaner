@@ -8,7 +8,7 @@ let userNumber;
 
 do {
     userNumber = prompt('Inserisci un numero');
-} while (userNumber > 1);
+} while (userNumber < 1);
 
 const mainList = document.getElementById('main-list');
 
